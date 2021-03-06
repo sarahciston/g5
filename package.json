@@ -1,0 +1,22 @@
+{
+  "name": "g5js",
+  "version": "0.0.1",
+  "description": "Making Git Easy Like p5js",
+  "keywords": [
+    "git",
+    "js-git",
+    "p5js",
+    "processing.org"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sarahciston"
+  },
+  "author": "Sarah Ciston <ciston@usc.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "gen-run": "^0.1.2",
+    "js-git": "file:js-git",
+    "js-github": "file:js-github"
+  }
+}
